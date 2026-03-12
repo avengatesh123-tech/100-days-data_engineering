@@ -9,6 +9,14 @@ A robust Data Engineering pipeline designed to handle the challenges of late-arr
 
 ---
 
+## Author
+**Vengadesan A**  
+[GitHub Profile](https://github.com/avengatesh123-tech) | [LinkedIn](https://www.linkedin.com/in/vengadesana)
+
+---
+
+---
+
 ## Architecture
 
 ```mermaid
@@ -97,7 +105,11 @@ docker exec spark-master spark-submit \
 
 ---
 
-## Cleanup
 ```bash
 docker-compose down -v
 ```
+
+---
+
+## Key Search Terms & Keywords
+`Data Engineering` `Spark Structured Streaming` `Kafka` `Delta Lake` `Apache Airflow` `Late Data Handling` `Watermarking` `Event Time Processing` `Data Pipeline` `Python` `ETL` `Vengadesan A`

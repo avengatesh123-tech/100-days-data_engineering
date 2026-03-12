@@ -1,0 +1,35 @@
+[
+  {
+    "order_id": "test-late-001",
+    "customer_id": "99",
+    "product": "Laptop",
+    "amount": 75000.00,
+    "city": "Chennai",
+    "status": "confirmed",
+    "event_time": "2024-01-15T08:00:00",
+    "ingest_time": "2024-01-15T11:30:00",
+    "is_late": true
+  },
+  {
+    "order_id": "test-late-002",
+    "customer_id": "45",
+    "product": "Phone",
+    "amount": 25000.00,
+    "city": "Mumbai",
+    "status": "placed",
+    "event_time": "2024-01-15T07:45:00",
+    "ingest_time": "2024-01-15T12:00:00",
+    "is_late": true
+  },
+  {
+    "order_id": "test-late-003",
+    "customer_id": "12",
+    "product": "Watch",
+    "amount": 15000.00,
+    "city": "Bangalore",
+    "status": "shipped",
+    "event_time": "2024-01-15T06:30:00",
+    "ingest_time": "2024-01-15T11:00:00",
+    "is_late": true
+  }
+]

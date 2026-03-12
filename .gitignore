@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Data & Streaming
+delta_tables/
+checkpoints/
+late_data/*.json
+!late_data/sample_late_orders.json
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
+
+# Docker logs/internal
+logs/

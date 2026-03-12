@@ -11,7 +11,7 @@ A robust Data Engineering pipeline designed to handle the challenges of late-arr
 
 ## Author
 **Vengadesan A**  
-[GitHub Profile](https://github.com/avengatesh123-tech) | [LinkedIn](https://www.linkedin.com/in/vengadesana)
+[GitHub Profile](https://github.com/avengatesh123-tech) | [LinkedIn](www.linkedin.com/in/vengatesh-a-3549922a2)
 
 ---
 
